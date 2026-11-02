@@ -11,6 +11,7 @@
 - [Git 常用操作](./docs/tech/git.md)
 - [前端构建工具链](./docs/tech/build.md)
 - [前端状态管理：从 React Hooks 到 Pinia](./docs/tech/state-management.md)
+- [代码质量规范](./docs/tech/code-quality.md)
 - [面试经验：AI 应用方向资深前端的能力清单](./docs/tech/interview.md)
 
 ### 推荐

@@ -4,6 +4,7 @@ const techItems: DefaultTheme.SidebarItem[] = [
   { text: 'Git 常用操作', link: '/tech/git' },
   { text: '前端构建工具链', link: '/tech/build' },
   { text: '前端状态管理', link: '/tech/state-management' },
+  { text: '代码质量规范', link: '/tech/code-quality' },
   { text: '面试经验：AI 应用方向', link: '/tech/interview' },
 ];
 
